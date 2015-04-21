@@ -14,3 +14,6 @@ Masahiro Fujita
 　--> コミットは現状をリポジトリに保存すること
 　
 テストコメント
+
+Githubセミナーガイド
+http://githubjapan.github.io/guides/activities/hello-world/
